@@ -1,6 +1,6 @@
 {
   "name": "@cyberspace.link/auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cyberspace auth",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/https-cyberspace-link/auth#readme",
   "dependencies": {
-    "@cyberspace.link/env": "^1.0.0",
+    "@cyberspace.link/env": "*",
     "js-cookie": "^3.0.0"
   }
 }
