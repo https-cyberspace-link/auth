@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@cyberspace.link/env@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@cyberspace.link/env/-/env-1.0.0.tgz#1751446463304dbb989615d7b7c9950f547e951f"
-  integrity sha512-dPJKQpLrG/6RfaY8qQ2YV3O5Jn5yUvVOk98ZhUpVKpVt01oD6bbvR85BoahA72wtWxzjMZWEY5oeObeQnfCekQ==
+"@cyberspace.link/env@*":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@cyberspace.link/env/-/env-1.0.1.tgz#0a043f5052a964ca098f0f1f237a0b1123862179"
+  integrity sha512-Talq666Y027oQUS7073W2XKd/aQ/UXAes7SAtdoF6C+B98m8H3FDs90bjgdAOYzLdwKmkT0dGapablis3Tul3A==
 
 js-cookie@^3.0.0:
   version "3.0.0"
