@@ -1,6 +1,6 @@
 {
   "name": "@cyberspace.link/auth",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "cyberspace auth",
   "main": "index.js",
   "scripts": {
